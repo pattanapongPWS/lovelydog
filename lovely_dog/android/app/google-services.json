@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233572778840",
+    "project_id": "lovelydogproject",
+    "storage_bucket": "lovelydogproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233572778840:android:2b3d6dcc2c05fcc04d5b2d",
+        "android_client_info": {
+          "package_name": "com.example.lovely_dog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipyFVz5rgWy9heYAfAJugN8aXkoTPymc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
